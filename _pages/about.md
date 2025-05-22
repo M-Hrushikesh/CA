@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Researcher
+subtitle: CA
 
 profile:
   align: right
@@ -15,6 +15,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! 👋 I'm a PhD student at the Michtom School of Computer Science, [Brandeis University](https://www.brandeis.edu/), working under the mentorship of [Prof. Subhadeep Sarkar](https://subhadeep.net/). My research revolves around optimizing data systems and distributed systems, with a current focus on Log-Structured Merge (LSM) trees. In this domain, I explore innovative compaction strategies and improvements to range deletes. I completed a Master’s degree in  Computer Science, specializing in Data-Centric Computing, at the  Graduate School of Arts & Science, [Boston University](https://www.bu.edu/).
+I’m Hrushikesh , a small-town boy from Khammam, India, with a big passion for finance, business transformation, and problem-solving. As a Chartered Accountant (equivalent to CPA) and a Master’s in Finance candidate at Brandeis University, I’ve learned that finance isn’t just about numbers—it’s about creating real impact.
 
-Professionally, I have been involved in various capacities across the tech industry, from innovative gaming startups like [Kwalee](https://www.kwalee.com/) to major corporations such as [FIS Global](https://www.fisglobal.com/en) and [Wipro Limited](https://www.wipro.com/). My roles have predominantly centered around data systems and distributed systems, where I developed skills that are integral to both my research and industry applications.
+At Deloitte, I gained hands-on experience in financial audits, regulatory compliance, and due diligence, working on 10-K and 10-Q filings, internal controls, and risk assessments. Later, as a Consultant at PKF BBA, I helped businesses optimize financial reporting, strengthen internal controls, and streamline accounting processes to drive efficiency and accuracy.
+
+Strategic Finance at Pulipati Associates
+Now, as a Partner at Pulipati Associates, I work closely with businesses to build financial strategies that drive growth. My contributions include:
+
+✅ Developing forecasting models and risk-mitigation strategies to help businesses scale.
+✅ Implementing SAP FICO, NetSuite, and custom finance tools to improve reporting accuracy.
+✅ Creating structured financial plans with measurable impact:
+
+Increased family incomes by 35% through a strategic farming model.
+Reduced emergency response costs by 40% for 50+ hospitals by implementing a financial planning framework.
+Optimized capital management, improving liquidity and reducing financing costs.
+Finance with Purpose
+For me, finance is about driving business success, not just crunching numbers. Whether it’s helping a company scale, improving financial efficiency, or automating reporting, I thrive on turning financial challenges into growth opportunities.
+
+Let’s connect and explore how finance and strategy can create real impact!
