@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m Hrushikesh , a small-town boy from Khammam, India, with a big passion for finance, business transformation, and problem-solving. As a Chartered Accountant (equivalent to CPA) and a Master’s in Finance candidate at Brandeis University, I’ve learned that finance isn’t just about numbers—it’s about creating real impact.
+I’m Hrushikesh , a small-town boy from Khammam, India, with a big passion for finance, business transformation, and problem-solving. As a Chartered Accountant (equivalent to CPA) and graduated with  Master’s in Finance candidate from  Brandeis University, I’ve learned that finance isn’t just about numbers—it’s about creating real impact.
 
 At Deloitte, I gained hands-on experience in financial audits, regulatory compliance, and due diligence, working on 10-K and 10-Q filings, internal controls, and risk assessments. Later, as a Consultant at PKF BBA, I helped businesses optimize financial reporting, strengthen internal controls, and streamline accounting processes to drive efficiency and accuracy.
 
